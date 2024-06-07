@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(darkgoldenrod 0%, darkcyan 100%);
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+#timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 50px;
+}
+
+#sketch_name{
+    color:crimson;
+}
